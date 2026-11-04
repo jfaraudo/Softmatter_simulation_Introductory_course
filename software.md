@@ -11,5 +11,5 @@ Most of it can be installed using [Anaconda:](https://www.anaconda.com/docs/main
 - [Jupyter Notebook](https://jupyter.org/). Anaconda installation instructions [here](https://anaconda.org/anaconda/jupyter).
 - [MDanalysis](https://www.mdanalysis.org/pages/installation_quick_start/): A python library to analyze MD simulations.
 - [MDTraj](https://www.mdtraj.org/1.9.8.dev0/index.html): A python library to analyze Molecular Dynamics trajectories. Installation from anaconda instructions [here]( https://anaconda.org/channels/conda-forge/packages/mdtraj/overview)
-- 
+- [Nlgview:](https://nglviewer.org/nglview/latest/) A python library to visualize and analyze structures in python notebooks (see [here](https://anaconda.org/channels/conda-forge/packages/nglview/overview) to install from anaconda).
 
