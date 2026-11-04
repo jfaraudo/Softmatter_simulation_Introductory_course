@@ -6,4 +6,4 @@ Here are python resources from the [Molecular Sciences Software Institute](https
 - Examples of data analysis: [here](https://education.molssi.org/python-data-analysis/)
 - Examples of data visualization: [here](https://education.molssi.org/python-visualization/introduction.html)
 
-If you want to use # Google Colab # instead of jupyter notebooks, here you have a basic introduction:
+If you want to use ** Google Colab ** instead of jupyter notebooks, here you have a basic introduction:
