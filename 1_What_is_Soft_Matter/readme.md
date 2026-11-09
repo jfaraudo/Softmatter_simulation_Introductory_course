@@ -1,6 +1,6 @@
 ## Introductory material about the concept of Soft Matter
 
-Material for introducing the Soft Matter concept.
+Material for introducing the Soft Matter concept. The notebook has a standard jupyter version and a Colab version.
 
 Some Essential reading:
 
