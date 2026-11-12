@@ -2,10 +2,10 @@
 
 ### Objective:
 
-Introduce basic concepts and tools to be employed during the course:
-1.- Use of python Notebooks for basic calculations.
-2.- Use of python notebook for estimation of basic energy scales in Soft Matter
-3.- Concept of molecular dynamics to deal with soft matter thermodynamics
+Introduce basic concepts and tools to be employed during the course:  
+1.- Use of python Notebooks for basic calculations.  
+2.- Use of python notebook for estimation of basic energy scales in Soft Matter  
+3.- Concept of molecular dynamics to deal with soft matter thermodynamics  
 
 ### Reading (before class)
 
